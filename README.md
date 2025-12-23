@@ -3,9 +3,9 @@
 This repository contains all code and prompts used in the accompanying write-up.
 
 ## Reproduction
-- The full experimental pipeline is in `paltering_steering.ipynb`.
-- You can reproduce the charts at `Gemma_Steering_Charts.ipynb`.
-- Run the `paltering_steering.ipynb` notebook **top to bottom** to reproduce the experiments.
+- The full experimental pipeline is in `palter_steering.ipynb`.
+- You can reproduce the charts at `gemma_steering_charts.ipynb`.
+- Run the `palter_steering.ipynb` notebook **top to bottom** to reproduce the experiments.
 - The model used is **Gemma-2-2B-IT**, with default settings.
 
 ## Experiments
