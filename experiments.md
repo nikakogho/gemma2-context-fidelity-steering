@@ -299,12 +299,12 @@ The hypothesis is Confirmed.
 ![Mitigating toxicity via steering vector subtraction](images/mitigating_toxicity_with_steering_vector.png)
 
 ### Why Is There Asymmetry
-![Entanglement hypothesis explaining addition failure](images/entanglement_hypothesis_addition_failure.png)
+![Entanglement hypothesis explaining addition failure](images/entanglement_hypothesis_of_why_addition_failed_in_paltering_mech_interp.png)
 
 ## Intervention Asymmetry on Bad Product
-![Inteverntion Asymmetry Bad Product](images/intervention asymmetry bad product.png)
+![Inteverntion Asymmetry Bad Product](images/intervention_asymmetry_bad_product.png)
 
 
 ## Asymmetry on Good Product
-![Inteverntion Asymmetry Good Product](images/intervention asymmetry good product.png)
+![Inteverntion Asymmetry Good Product](images/intervention_asymmetry_good_product.png)
 
