@@ -1,6 +1,6 @@
 # Reproducing Results
 
-This repository contains all code and prompts used in the accompanying write-up.
+This repository contains all code and prompts used in [this write-up](https://docs.google.com/document/d/1Vw4ZY1DxN2hUvMdVbpvp3_X6_eBcXXBQgiywfA4ZUSA/edit?usp=sharing) for Neel Nanda's MATS stream 10.
 
 ## Reproduction
 - The full experimental pipeline is in `palter_steering.ipynb`.
